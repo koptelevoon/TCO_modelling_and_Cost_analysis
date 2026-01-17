@@ -1,12 +1,12 @@
-**1)	Project overview**<br />
------------------------------
-This project develops a Total Cost of Ownership (TCO) model for two versions of an innovative Energy Storage solution. The model considers a complete overview of cost implications based on varying life-cycle design choices and supports data-driven decision making in system development.<br /><br />
-
 ## Disclaimer & Confidentiality<br /><br />
 
 This project is based on work conducted for a real-world company and an innovative product concept. To respect intellectual property rights and confidentiality obligations, all company names, product names, and sensitive data points have been anonymized.<br /><br />
 
 The analysis, structure, and methodology reflect the original work, but numerical values, labels, and identifiers have been modified where necessary. This repository is shared strictly for demonstration and portfolio purposes.<br /><br />
+
+**1)	Project overview**<br />
+-----------------------------
+This project develops a Total Cost of Ownership (TCO) model for two versions of an innovative Energy Storage solution. The model considers a complete overview of cost implications based on varying life-cycle design choices and supports data-driven decision making in system development.<br /><br />
 
 **2)	Objective**<br />
 - Quantify total life-cycle TCO costs for two versions of an energy storage system<br />
