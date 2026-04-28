@@ -8,6 +8,8 @@ The analysis, structure, and methodology reflect the original work, but numerica
 -----------------------------
 This project develops a Total Cost of Ownership (TCO) model for two versions of an innovative Energy Storage solution. The model considers a complete overview of cost implications based on varying life-cycle design choices and supports data-driven decision making in system development.<br /><br />
 
+<img width="972" height="892" alt="image" src="https://github.com/user-attachments/assets/f87b2922-b19d-47d7-b4c8-003825c6bb81" />
+
 **2)	Objective**<br />
 -----------------------------
 - Quantify total life-cycle TCO costs for two versions of an energy storage system<br />
